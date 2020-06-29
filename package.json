@@ -1,5 +1,5 @@
 {
-  "name": "react-native-360-image-viewer",
+  "name": "react-native-image360-viewer",
   "version": "1.0.0",
   "description": "The 360 image viewer for react native",
   "main": "./lib",
@@ -13,7 +13,7 @@
   "author": "hauvo",
   "keywords": [
     "react-native",
-    "react-native-360-image-viewer"
+    "react-native-image360-viewer"
   ],
   "license": "MIT"
 }

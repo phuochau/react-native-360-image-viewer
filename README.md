@@ -1,4 +1,4 @@
-react-native-360-image-viewer
+react-native-image360-viewer
 ===
 
 Inspired by [https://github.com/scaleflex/js-cloudimage-360-view](https://github.com/scaleflex/js-cloudimage-360-view)
@@ -10,11 +10,11 @@ Images credit: [https://www.cloudimage.io/](https://www.cloudimage.io/)
 ## Installation
 
 ```bash
-yarn add react-native-360-image-viewer
+yarn add react-native-image360-viewer
 
 or
 
-npm install react-native-360-image-viewer --save
+npm install react-native-image360-viewer --save
 ```
 
 Please file an issue if you have any trouble!
