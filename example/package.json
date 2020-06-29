@@ -10,9 +10,9 @@
     "lint": "eslint ."
   },
   "dependencies": {
+    "@hauvo/react-native-360-image-viewer": "file:../lib",
     "react": "16.11.0",
-    "react-native": "0.62.2",
-    "react-native-image360-viewer": "file:../lib"
+    "react-native": "0.62.2"
   },
   "devDependencies": {
     "@babel/core": "^7.10.3",

@@ -13,7 +13,7 @@ import {
   Dimensions
 } from 'react-native';
 
-import Image360Viewer from 'react-native-image360-viewer'
+import Image360Viewer from '@hauvo/react-native-360-image-viewer'
 
 const { width, height } = Dimensions.get('window')
 const images = _.reverse([
