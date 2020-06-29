@@ -3,7 +3,7 @@ react-native-360-image-viewer
 
 Inspired by [https://github.com/scaleflex/js-cloudimage-360-view](https://github.com/scaleflex/js-cloudimage-360-view)
 
-![Sample](http://g.recordit.co/Ek5o1aI2Jo.gif)
+![Sample](example/example.gif)
 
 Images credit: [https://www.cloudimage.io/](https://www.cloudimage.io/)
 
