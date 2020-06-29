@@ -1,0 +1,19 @@
+{
+  "name": "react-native-360-image-viewer",
+  "version": "1.0.0",
+  "description": "The 360 image viewer for react native",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phuochau/react-native-360-image-viewer.git"
+  },
+  "author": "hauvo",
+  "keywords": [
+    "react-native",
+    "react-native-360-image-viewer"
+  ],
+  "license": "MIT"
+}
