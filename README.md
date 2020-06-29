@@ -22,7 +22,7 @@ Please file an issue if you have any trouble!
 
 ## Usage
 
-See [https://github.com/phuochau/react-native-360-image-viewer/tree/master/example](https://github.com/phuochau/react-native-360-image-viewer/tree/master/example)
+See [https://github.com/phuochau/react-native-image360-viewer/blob/master/example/App.js](https://github.com/phuochau/react-native-image360-viewer/blob/master/example/App.js)
 
 ## Properties
 option | Info
